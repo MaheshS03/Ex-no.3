@@ -364,4 +364,3 @@ sns.histplot(x="Glucose",data=df)
 ## RESULTS:
 Thus the Univariate Analysis for the given data set is executed and output was verified successfully.
 
-# Ex-no.3
